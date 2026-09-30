@@ -77,5 +77,5 @@ BFS explores reachable positions level by level. Since every movement has the sa
 The first LLM-generated implementation worked correctly without requiring a second prompting iteration. The generated code was executed and independently validated rather than being assumed to be correct.
 
 ## Files
-Lab2_Agents.ipynb — Python implementation, agent design, prompt, execution, and validation
-Lab2_Agents_Report.pdf — Laboratory report
+- Lab2_Agents.ipynb — Python implementation, agent design, prompt, execution, and validation
+- Lab2_Agents_Report.pdf — Laboratory report

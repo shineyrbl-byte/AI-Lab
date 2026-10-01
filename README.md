@@ -91,7 +91,8 @@ AI-Lab/
 ├── Lab-06-Transformers/
 ├── Lab-07-BN/
 │
-└── README.md 
+└── README.md
+```
 
 Each lab folder contains the relevant notebooks, Python implementations,
 reports, and other files associated with that laboratory.

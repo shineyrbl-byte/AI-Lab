@@ -79,3 +79,4 @@ The first LLM-generated implementation worked correctly without requiring a seco
 ## Files
 - Lab2_Agents.ipynb — Python implementation, agent design, prompt, execution, and validation
 - Lab2_Agents_Report.pdf — Laboratory report
+- agents_lab.pdf - Laboratory Manual

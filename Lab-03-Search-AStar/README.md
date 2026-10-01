@@ -91,3 +91,8 @@ For this particular warehouse and implementation, all four heuristics produced t
 ### Key Learning
 
 The laboratory demonstrates that an LLM can assist with implementing a search algorithm, but generated code must be inspected, tested, and validated before being trusted. The engineer remains responsible for the correctness of the final implementation.
+
+## Files
+- Lab3_Search_AStar.ipynb — Python implementation, agent design, prompt, execution, and validation
+- Lab3_Search_AStar_Report.pdf — Laboratory report
+- search_lab_ex.pdf - Laboratory Manual

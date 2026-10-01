@@ -90,7 +90,8 @@ internet access and disk space are needed.
 - **Ollama vs. Claude:** Mistral solved the math problem correctly but ignored length
   limits, invented a plot detail, and wrote a palindrome function with a bug (it
   returns `False` for "abba"). Claude followed the instructions and was more
-  accurate. Ollama found no GPU on Colab, so Mistral ran on CPU and was slow.
+  accurate. Mistral ran on the Colab Tesla T4 GPU (confirmed with `nvidia-smi`, where
+  the Ollama `llama-server` process used about 4.8 GB of GPU memory).
 
 ## Notes
 

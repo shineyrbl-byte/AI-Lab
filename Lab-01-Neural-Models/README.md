@@ -78,3 +78,4 @@ The architecture, dataset, and experimental requirements were kept unchanged.
 
 * `Lab1_Neural_Models.ipynb` — Complete Colab/Jupyter notebook containing code, outputs, experiments, and explanations.
 * `Lab1_Neural_Models_Report.pdf` — Short report containing the problem specification, model design, LLM prompt, results, and reflections.
+* `neur_models_lab_ex.pdf` - Laboratory manual

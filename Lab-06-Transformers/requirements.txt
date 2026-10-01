@@ -1,0 +1,13 @@
+# Core Hugging Face stack (translation, GPT-2 generation, sentiment analysis)
+transformers>=4.40
+torch
+accelerate        # needed for device_map="auto"
+sentencepiece     # needed by the T5 tokenizer
+
+# Running Ollama models from Python
+langchain-core
+langchain-ollama
+
+# Notebook support
+jupyter
+ipykernel

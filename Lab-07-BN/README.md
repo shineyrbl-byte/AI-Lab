@@ -1,4 +1,4 @@
-# Lab 5 — Building and Learning an Autoregressive Language Model
+# Lab 7 — Building and Learning an Autoregressive Language Model
 
 This laboratory explores the connection between Bayesian networks,
 probabilistic modelling, and autoregressive language models.
@@ -61,7 +61,7 @@ appropriate two-token context.
 ## Files
 
 - `llm_language_model.ipynb` — Complete laboratory notebook
-- `requirements.txt` — Python dependencies
+- `BN_lab.pdf` — Laboratory manual
 
 ## How to Run
 

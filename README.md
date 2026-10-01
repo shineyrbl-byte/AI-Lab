@@ -1,4 +1,4 @@
-# AI-Lab
+# AI-Lab CS F407
 
 Laboratory work for the Artificial Intelligence course.
 
@@ -98,5 +98,6 @@ Each lab folder contains the relevant notebooks, Python implementations,
 reports, and other files associated with that laboratory.
 
 ## Author
-Avisha Srivastava (2024A1PS0273G)
+
+Avisha Srivastava (2024A1PS0273G)  
 BITS Pilani, KK Birla Goa Campus
